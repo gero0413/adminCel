@@ -1,0 +1,45 @@
+#informa {
+    margin-bottom: 10px;
+    background-color: silver;
+}
+
+#botones {
+    margin-top: 0px;
+    margin-bottom: 0px !important;
+}
+
+#servicios {
+    margin-top: 10px;
+    margin-bottom: 0px !important;
+    background-color: silver;
+}
+
+#logo {
+    height: 200px;
+}
+
+#texto {
+    margin-top: auto;
+}
+
+#sesion {
+    margin-left: 159px;
+    margin-top: 25px;
+}
+
+#categoria,
+.imagen {
+    margin-top: 10px;
+}
+
+.card {
+    max-height: 70px;
+    text-align: right;
+    border: solid 2px white;
+}
+
+.imagen {
+    width: 18rem;
+    height: 20rem;
+    border: solid 2px white;
+}
